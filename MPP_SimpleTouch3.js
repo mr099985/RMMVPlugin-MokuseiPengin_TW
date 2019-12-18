@@ -167,6 +167,7 @@
  * @parent === Option ===
  * 
  * @param Select Type Name
+ * @text 光標移動名稱
  * @desc 在選項畫面顯示[光標移動]的名稱。
  * (留白的情況將不顯示)
  * @default 
